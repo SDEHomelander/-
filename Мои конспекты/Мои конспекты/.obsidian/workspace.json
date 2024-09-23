@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d9905f4aedf882ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e033f3cc75b32131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c1166a29df4699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Энтропия Шеннона.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0571eb5666b416a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a72d8350c06e988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd29b0871b808363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7b1ca34e22e2283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#измерение_информации",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4271b2e58398e4c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8227c1031038a5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d82f919c6b7951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2913bc1220965b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Информатика/Энтропия Шеннона.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82a6abf4d3072aed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Информатика/Энтропия Шеннона.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aec5eab21480de61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e18cea543b02fd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Информатика/Энтропия Шеннона.md"
+              }
+            }
+          },
+          {
+            "id": "495d93d7a961dade",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fd29b0871b808363",
+  "lastOpenFiles": [
+    "Информатика/Колмогоровская сложность.md",
+    "Информатика/Энтропия Шеннона.md",
+    "Изображения",
+    "Изображения/Pasted image 20240918101538.png",
+    "Добро пожаловать.md",
+    "Информатика"
+  ]
+}
